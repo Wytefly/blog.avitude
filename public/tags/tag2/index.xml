@@ -56,5 +56,142 @@
 </content>
     </item>
     
+    <item>
+      <title>AVITUDE ENTRY 2</title>
+      <link>/posts/blog-entry2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/blog-entry2/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt; README.md&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;HTML / JavaScript / CSS&lt;/li&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/MeiK2333&#34;&gt;MeiK2333&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blog: &lt;a href=&#34;https://meik2333.com/&#34;&gt;meik2333.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:meik2333@gmail.com&#34;&gt;meik2333@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X: &lt;a href=&#34;https://x.com/MeiK2333&#34;&gt;MeiK2333&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repo&#34;&gt;Repo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;github-style&lt;/a&gt;: A hugo theme, design by github.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/river&#34;&gt;river&lt;/a&gt;: Judger sandbox for Online Judge.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/newbie-sandbox&#34;&gt;newbie-sandbox&lt;/a&gt;: A safe, fast and stable linux program runtime.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/remote-chrome-crawler&#34;&gt;remote-chrome-crawler&lt;/a&gt;: Node parallel crawler framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/apue&#34;&gt;apue&lt;/a&gt;: 《 Advanced Programming in the Unix Environment 》 exercise answers and code notes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/recent_contests&#34;&gt;recent_contests&lt;/a&gt;: Recent Contests from frequently used OJs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;build-this-site&#34;&gt;Build this site&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;github-style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;popular-posts&#34;&gt;Popular posts&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/llm_tools/&#34;&gt;大模型 tools 调用原理解析&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt; README.md&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;HTML / JavaScript / CSS&lt;/li&gt;
+&lt;li&gt;Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/MeiK2333&#34;&gt;MeiK2333&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blog: &lt;a href=&#34;https://meik2333.com/&#34;&gt;meik2333.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:meik2333@gmail.com&#34;&gt;meik2333@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X: &lt;a href=&#34;https://x.com/MeiK2333&#34;&gt;MeiK2333&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;repo&#34;&gt;Repo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;github-style&lt;/a&gt;: A hugo theme, design by github.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/river&#34;&gt;river&lt;/a&gt;: Judger sandbox for Online Judge.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/newbie-sandbox&#34;&gt;newbie-sandbox&lt;/a&gt;: A safe, fast and stable linux program runtime.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/remote-chrome-crawler&#34;&gt;remote-chrome-crawler&lt;/a&gt;: Node parallel crawler framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/apue&#34;&gt;apue&lt;/a&gt;: 《 Advanced Programming in the Unix Environment 》 exercise answers and code notes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/recent_contests&#34;&gt;recent_contests&lt;/a&gt;: Recent Contests from frequently used OJs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;build-this-site&#34;&gt;Build this site&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;github-style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;popular-posts&#34;&gt;Popular posts&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/llm_tools/&#34;&gt;大模型 tools 调用原理解析&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大模型是如何调用 tools 的？&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B&#34;&gt;大模型&lt;/a&gt; &lt;a href=&#34;https://meik2333.com/tags/llm&#34;&gt;LLM&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/android-hook/&#34;&gt;Android Hook 技术&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;浅谈 Android Hook 技术。&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/android&#34;&gt;Android&lt;/a&gt; &lt;a href=&#34;https://meik2333.com/tags/hook&#34;&gt;Hook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/dns-security/&#34;&gt;DNS 安全&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;浅谈 DNS 安全。&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/dns&#34;&gt;DNS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/crawler3/&#34;&gt;如何写一个爬虫 - 第三篇&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从零开始实现一个爬虫。&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/%E7%88%AC%E8%99%AB&#34;&gt;爬虫&lt;/a&gt; &lt;a href=&#34;https://meik2333.com/tags/python&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/crawler2/&#34;&gt;如何写一个爬虫 - 第二篇&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从零开始实现一个爬虫。&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/%E7%88%AC%E8%99%AB&#34;&gt;爬虫&lt;/a&gt; &lt;a href=&#34;https://meik2333.com/tags/python&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/crawler1/&#34;&gt;如何写一个爬虫 - 第一篇&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从零开始实现一个爬虫。&lt;/p&gt;
+&lt;p&gt; &lt;a href=&#34;https://meik2333.com/tags/%E7%88%AC%E8%99%AB&#34;&gt;爬虫&lt;/a&gt; &lt;a href=&#34;https://meik2333.com/tags/python&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;1-post-in-2024&#34;&gt;1 post in 2024&lt;/h2&gt;
+&lt;p&gt;JanFebMarAprMayJunJulAugSepOctNovDecMonWedFri&lt;/p&gt;
+&lt;p&gt;Less&lt;/p&gt;
+&lt;p&gt;More&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024&lt;/li&gt;
+&lt;li&gt;2020&lt;/li&gt;
+&lt;li&gt;2019&lt;/li&gt;
+&lt;li&gt;2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;post-activity&#34;&gt;Post activity&lt;/h2&gt;
+&lt;h3 id=&#34;september2024&#34;&gt;September 2024&lt;/h3&gt;
+&lt;p&gt;Created 1 post&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/llm_tools/&#34;&gt;大模型 tools 调用原理解析&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sep 9&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://meik2333.com/&#34; title=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;github-style&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
