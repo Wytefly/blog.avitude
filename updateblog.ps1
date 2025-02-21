@@ -120,7 +120,7 @@ try {
     git push origin master
 } catch {
     Write-Error "Failed to push to Master branch."
-    exit 0
+    exit 1
 }
 
 
