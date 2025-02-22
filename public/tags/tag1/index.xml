@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on Terminal</title>
-    <link>//localhost:1313/tags/tag1/</link>
+    <link>/tags/tag1/</link>
     <description>Recent content in Tag1 on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AVITUDE BLOG ENTRY 001</title>
-      <link>//localhost:1313/posts/blog-entry1/</link>
+      <link>/posts/blog-entry1/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/blog-entry1/</guid>
+      <guid>/posts/blog-entry1/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;mthrfckr&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/slava_ukraini.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/slava_ukraini.jpg&#34; alt=&#34;Image Description&#34;&gt;
 ![[]]&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -36,7 +36,7 @@
       <content>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;mthrfckr&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/slava_ukraini.jpg&#34; alt=&#34;Image Description&#34;&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/slava_ukraini.jpg&#34; alt=&#34;Image Description&#34;&gt;
 ![[]]&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -58,11 +58,11 @@
     
     <item>
       <title>AVITUDE ENTRY 2</title>
-      <link>//localhost:1313/posts/blog-entry2/</link>
+      <link>/posts/blog-entry2/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/blog-entry2/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <guid>/posts/blog-entry2/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt; README.md&lt;/p&gt;
 &lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
 &lt;ul&gt;
@@ -100,7 +100,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://meik2333.com/post/llm_tools/&#34;&gt;大模型 tools 调用原理解析&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt; README.md&lt;/p&gt;
 &lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
 &lt;ul&gt;
@@ -195,12 +195,12 @@
     
     <item>
       <title>AVITUDE ENTRY 3</title>
-      <link>//localhost:1313/posts/blog-entry3/</link>
+      <link>/posts/blog-entry3/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/blog-entry3/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <guid>/posts/blog-entry3/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
