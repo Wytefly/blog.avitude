@@ -1,0 +1,28 @@
+---
+title: 23yo infiltrates NK laptop farm, exposes scam.
+date: 2025-02-22
+draft: false
+tags:
+  - tag1
+  - tag2
+---
+!![Image Description](/images/0375a9bd-ad7c-42ae-b900-291090ad0f3d_2690x1700.jpg)
+In today’s digital landscape, the lines between cybersecurity and espionage are blurring. Aidan Raney's experience infiltrating a North Korean IT operation drives this point home.
+
+He gained the trust of a regime that exploits businesses to funnel resources into weapons programs. This wasn’t just a daring move; it was a wake-up call.
+
+- Exposed tactics used against U.S. companies.
+- Uncovered methods that can threaten our national security.
+- Demonstrated how information warfare is evolving.
+
+This incident showcases the critical need for vigilance.
+
+- Assess your cybersecurity measures regularly.
+- Foster a culture of reporting suspicious activity in your organization.
+- Collaborate with experts to understand global threats.
+
+We can all be proactive in safeguarding our digital frontiers. 
+
+[Full Story](https://sashaingber.substack.com/p/the-23-year-old-who-infiltrated-a)
+
+[Additional Content](https://www.youtube.com/watch?v=oLnX9ZfzAv4)
