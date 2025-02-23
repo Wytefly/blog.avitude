@@ -74,8 +74,8 @@ pagination.pagerSize = 5
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
+      owner = "Terry McNatt"
+      keywords = "AI tools"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
