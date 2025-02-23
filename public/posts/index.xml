@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>23yo infiltrates NK laptop farm, exposes scam.</title>
-      <link>/posts/blog-post-004/</link>
+      <link>/posts/2025-02-21b/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/blog-post-004/</guid>
+      <guid>/posts/2025-02-21b/</guid>
       <description>&lt;p&gt;!&lt;img src=&#34;/images/0375a9bd-ad7c-42ae-b900-291090ad0f3d_2690x1700.jpg&#34; alt=&#34;Image Description&#34;&gt;
 In today’s digital landscape, the lines between cybersecurity and espionage are blurring. Aidan Raney&amp;rsquo;s experience infiltrating a North Korean IT operation drives this point home.&lt;/p&gt;
 &lt;p&gt;He gained the trust of a regime that exploits businesses to funnel resources into weapons programs. This wasn’t just a daring move; it was a wake-up call.&lt;/p&gt;
@@ -44,10 +44,10 @@ In today’s digital landscape, the lines between cybersecurity and espionage ar
     
     <item>
       <title>AI &amp; soft skills: Thrive in the job revolution!</title>
-      <link>/posts/blog-entry-5/</link>
+      <link>/posts/2025-02-21c/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/blog-entry-5/</guid>
+      <guid>/posts/2025-02-21c/</guid>
       <description>&lt;p&gt;!&lt;img src=&#34;/images/3003.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;AI is about to change the game when it comes to jobs. The World Economic Forum says we&amp;rsquo;ll see a whopping 78 million new job openings by 2030. But there&amp;rsquo;s a twist—nearly 40% of the skills we use today will soon be old hat.&lt;/p&gt;
 &lt;p&gt;So, what&amp;rsquo;s that mean for us?&lt;/p&gt;
@@ -77,11 +77,57 @@ In today’s digital landscape, the lines between cybersecurity and espionage ar
     </item>
     
     <item>
+      <title>AI app hacks: Debug faster, build smarter!</title>
+      <link>/posts/2025-02-22/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-02-22/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/app-hacks.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Building apps with AI isn&amp;rsquo;t just about tech—it&amp;rsquo;s about picking the right toolkit.&lt;/p&gt;
+&lt;p&gt;The tech stack you choose can make or break your project. Yet, people often forget how critical this decision is.&lt;/p&gt;
+&lt;p&gt;Here’s why the right tools matter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speeds up development.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Makes debugging easier.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Boosts user experience.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fosters team collaboration.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, how do you know which tools to pick?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out platforms like Replit or try Supabase for effortless integration.&lt;/li&gt;
+&lt;li&gt;Choose tools that let you quickly tweak and test your app.&lt;/li&gt;
+&lt;li&gt;Regularly seek feedback and improve; it&amp;rsquo;s crucial.&lt;/li&gt;
+&lt;li&gt;Work with your team to get fresh perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The right stack not only cuts down on time but also makes your product better.&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/app-hacks.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Building apps with AI isn&amp;rsquo;t just about tech—it&amp;rsquo;s about picking the right toolkit.&lt;/p&gt;
+&lt;p&gt;The tech stack you choose can make or break your project. Yet, people often forget how critical this decision is.&lt;/p&gt;
+&lt;p&gt;Here’s why the right tools matter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speeds up development.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Makes debugging easier.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Boosts user experience.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fosters team collaboration.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, how do you know which tools to pick?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out platforms like Replit or try Supabase for effortless integration.&lt;/li&gt;
+&lt;li&gt;Choose tools that let you quickly tweak and test your app.&lt;/li&gt;
+&lt;li&gt;Regularly seek feedback and improve; it&amp;rsquo;s crucial.&lt;/li&gt;
+&lt;li&gt;Work with your team to get fresh perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The right stack not only cuts down on time but also makes your product better.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://substack.com/home/post/p-157660069?utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>AVITUDE BLOG ENTRY 001</title>
-      <link>/posts/blog-entry1/</link>
+      <link>/posts/2025-02-20/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/blog-entry1/</guid>
+      <guid>/posts/2025-02-20/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;mthrfckr&lt;/p&gt;
@@ -127,10 +173,10 @@ In today’s digital landscape, the lines between cybersecurity and espionage ar
     
     <item>
       <title>AVITUDE ENTRY 2</title>
-      <link>/posts/blog-entry2/</link>
+      <link>/posts/2025-02-21/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/blog-entry2/</guid>
+      <guid>/posts/2025-02-21/</guid>
       <description>&lt;p&gt;!&lt;img src=&#34;/images/gulf-of-mexico.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt; README.md&lt;/p&gt;
 &lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
@@ -264,23 +310,13 @@ In today’s digital landscape, the lines between cybersecurity and espionage ar
     
     <item>
       <title>AVITUDE ENTRY 3</title>
-      <link>/posts/blog-entry3/</link>
+      <link>/posts/2025-02-21a/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/blog-entry3/</guid>
+      <guid>/posts/2025-02-21a/</guid>
       <description>&lt;p&gt;!&lt;img src=&#34;/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;!&lt;img src=&#34;/images/GgzifJEXUAAEFOK.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/2025-02-22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2025-02-22/</guid>
-      <description></description>
-      <content></content>
     </item>
     
   </channel>
