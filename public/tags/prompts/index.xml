@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompts on Terminal</title>
+    <link>/tags/prompts/</link>
+    <description>Recent content in Prompts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/prompts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVITUDE BLOG POST 012</title>
+      <link>/posts/2025-05-22/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-22/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/0846.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;blog-post-formatting-prompts&#34;&gt;Blog Post Formatting Prompts&lt;/h1&gt;
+&lt;p&gt;Here are pre-scripted prompts you can use to format different types of blog posts:
+source: Claude 3.7 Sonnet&lt;/p&gt;
+&lt;h2 id=&#34;general-blog-post-structure&#34;&gt;General Blog Post Structure&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a well-structured blog post titled &amp;#34;[TITLE]&amp;#34; about [TOPIC]. Include:
+- An attention-grabbing introduction
+- 3-5 main sections with descriptive subheadings
+- Relevant examples or statistics in each section
+- A compelling conclusion with a call-to-action
+- Format for easy readability with short paragraphs, bullet points where appropriate, and subheadings
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;list-style-blog-post&#34;&gt;List-Style Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a list-style blog post titled &amp;#34;[TITLE]&amp;#34; featuring [NUMBER] [TOPIC]. For each item:
+- Include a bold subheading
+- Write 2-3 paragraphs explaining the item
+- Add a key takeaway or practical tip
+- Format for skimmability with plenty of white space
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;how-to-tutorial-blog-post&#34;&gt;How-To Tutorial Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a step-by-step tutorial blog post titled &amp;#34;How to [TASK]&amp;#34; that includes:
+- A brief introduction explaining why this skill matters
+- Required materials/prerequisites list
+- Numbered steps with clear instructions for each
+- Screenshots or image placement recommendations
+- Troubleshooting tips for common issues
+- A conclusion summarizing the benefits of mastering this skill
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;product-review-blog-post&#34;&gt;Product Review Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a comprehensive product review blog post for [PRODUCT NAME] including:
+- Opening with key specifications and overview
+- Pros and cons section with bullet points
+- Detailed analysis of main features
+- Comparison with similar products
+- User experience section
+- Value for money assessment
+- Final verdict with star or numerical rating
+- Who should buy this product
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;seo-optimized-blog-post&#34;&gt;SEO-Optimized Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create an SEO-optimized blog post about [TOPIC] that:
+- Uses the target keyword &amp;#34;[KEYWORD]&amp;#34; in the title, first paragraph, and 3-5 times throughout
+- Includes 3 related secondary keywords naturally throughout
+- Contains H2 and H3 subheadings with keywords where appropriate
+- Is 1200-1500 words in length
+- Includes meta description suggestion of 150-160 characters
+- Suggests 2-3 internal linking opportunities
+- Has a readable, conversational tone while maintaining expertise
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Example blog:&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/0846.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;blog-post-formatting-prompts&#34;&gt;Blog Post Formatting Prompts&lt;/h1&gt;
+&lt;p&gt;Here are pre-scripted prompts you can use to format different types of blog posts:
+source: Claude 3.7 Sonnet&lt;/p&gt;
+&lt;h2 id=&#34;general-blog-post-structure&#34;&gt;General Blog Post Structure&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a well-structured blog post titled &amp;#34;[TITLE]&amp;#34; about [TOPIC]. Include:
+- An attention-grabbing introduction
+- 3-5 main sections with descriptive subheadings
+- Relevant examples or statistics in each section
+- A compelling conclusion with a call-to-action
+- Format for easy readability with short paragraphs, bullet points where appropriate, and subheadings
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;list-style-blog-post&#34;&gt;List-Style Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a list-style blog post titled &amp;#34;[TITLE]&amp;#34; featuring [NUMBER] [TOPIC]. For each item:
+- Include a bold subheading
+- Write 2-3 paragraphs explaining the item
+- Add a key takeaway or practical tip
+- Format for skimmability with plenty of white space
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;how-to-tutorial-blog-post&#34;&gt;How-To Tutorial Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a step-by-step tutorial blog post titled &amp;#34;How to [TASK]&amp;#34; that includes:
+- A brief introduction explaining why this skill matters
+- Required materials/prerequisites list
+- Numbered steps with clear instructions for each
+- Screenshots or image placement recommendations
+- Troubleshooting tips for common issues
+- A conclusion summarizing the benefits of mastering this skill
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;product-review-blog-post&#34;&gt;Product Review Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create a comprehensive product review blog post for [PRODUCT NAME] including:
+- Opening with key specifications and overview
+- Pros and cons section with bullet points
+- Detailed analysis of main features
+- Comparison with similar products
+- User experience section
+- Value for money assessment
+- Final verdict with star or numerical rating
+- Who should buy this product
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;seo-optimized-blog-post&#34;&gt;SEO-Optimized Blog Post&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Create an SEO-optimized blog post about [TOPIC] that:
+- Uses the target keyword &amp;#34;[KEYWORD]&amp;#34; in the title, first paragraph, and 3-5 times throughout
+- Includes 3 related secondary keywords naturally throughout
+- Contains H2 and H3 subheadings with keywords where appropriate
+- Is 1200-1500 words in length
+- Includes meta description suggestion of 150-160 characters
+- Suggests 2-3 internal linking opportunities
+- Has a readable, conversational tone while maintaining expertise
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Example blog:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html&#34;&gt;https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;tim-urban-style-instructional-blog-post-prompt&#34;&gt;Tim Urban-Style Instructional Blog Post Prompt&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;## INTRODUCTION
+
+- Start with a relatable, everyday scenario that illustrates why people struggle with [TOPIC]
+- Use a conversational, slightly self-deprecating tone
+- Introduce an intriguing question or problem that will hook readers
+- Add a humorous aside or parenthetical thought (Tim often uses these)
+- Promise a deep dive that will genuinely help readers understand this complex topic
+  
+
+## THE BIG CONCEPT
+
+- Introduce a central metaphor or mental model that will frame the entire post (like the &amp;#34;Social Approval Mammoth&amp;#34; or the &amp;#34;Instant Gratification Monkey&amp;#34;)
+- Define this concept with simple language but profound implications
+- Create a simple stick figure illustration using basic shapes and lines to represent the concept in a humorous way.
+- Explain why this mental model is useful for understanding the topic
+
+
+## EVOLUTIONARY/HISTORICAL CONTEXT
+
+- Go back to prehistoric times or historical origins to explain why humans think/behave this way
+- Connect ancient patterns to modern problems
+- Use humor to make this history lesson entertaining
+
+  
+## BREAKING DOWN THE PROBLEM
+
+- Divide the main concept into 3-5 distinct components or patterns
+- For each component:
+  * Create a catchy, slightly absurd subheading
+  * Explain with a mix of logic and humor
+  * Provide real-world examples that readers will recognize in their own lives
+  * Include a surprising insight or counterintuitive fact
+
+
+## THE SPECTRUM
+
+- Create a spectrum or matrix showing different types of people/behaviors related to the topic
+- Label the extremes with humorous but accurate descriptions
+- Place yourself somewhere on this spectrum (usually not at the ideal point)
+- Explain the consequences of being at different points
+
+  
+## GOING DEEPER (THE TANGENT)
+
+- Take a fascinating detour into a related but unexpected aspect of the topic
+- Start with &amp;#34;Now let&amp;#39;s talk about something interesting...&amp;#34;
+- Make connections that most explanations of this topic don&amp;#39;t cover
+- Return to how this connects to the main concept
+  
+
+## PRACTICAL STRATEGIES
+
+- Introduce 5-7 actionable techniques for mastering this concept
+- For each technique:
+  * Give it a memorable name
+  * Explain the psychology/science behind why it works
+  * Provide a concrete example of implementing it
+  * Address common obstacles or misunderstandings
+  
+
+## PHILOSOPHICAL IMPLICATIONS
+
+- Zoom out to the bigger life questions this topic connects to
+- Discuss what mastering this concept means for human happiness/fulfillment
+- Share a personal reflection or realization
+- Acknowledge the difficulty of implementing these ideas
+
+  
+
+## CONCLUSION
+
+- Return to the central metaphor/mental model
+- Summarize the key insights in a non-generic way
+- End with a thought-provoking question or call-to-action
+- Add a humorous final stick figure or aside
+
+  
+
+## BONUS SECTION
+
+- Include a &amp;#34;Wait But What About...&amp;#34; section addressing common questions/objections
+- Add a recommended reading list with quirky descriptions of each source
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;NOTES:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intersperse humor throughout, especially when explaining complex concepts&lt;/li&gt;
+&lt;li&gt;Use casual language and occasional profanity for emphasis&lt;/li&gt;
+&lt;li&gt;Create simple but effective diagrams at key points&lt;/li&gt;
+&lt;li&gt;Make paragraphs short and readable&lt;/li&gt;
+&lt;li&gt;Use bold text for key concepts worth remembering&lt;/li&gt;
+&lt;li&gt;Include numerous examples that make abstract ideas concrete&lt;/li&gt;
+&lt;li&gt;Embrace occasional tangents if they&amp;rsquo;re genuinely interesting&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t be afraid of length - Wait But Why posts are comprehensive&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

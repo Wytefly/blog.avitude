@@ -6,11 +6,31 @@
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
+      <title>Cover-Letter</title>
+      <link>/tags/cover-letter/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cover-letter/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/tags/resume/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resume/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/ai/</guid>
       <description></description>
@@ -18,9 +38,179 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Prompts</title>
+      <link>/tags/prompts/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prompts/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Fake</title>
+      <link>/tags/fake/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fake/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/news/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>SynthID</title>
+      <link>/tags/synthid/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/synthid/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Colonization</title>
+      <link>/tags/colonization/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/colonization/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Russia</title>
+      <link>/tags/russia/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/russia/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Ukraine</title>
+      <link>/tags/ukraine/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ukraine/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>AI-Driven</title>
+      <link>/tags/ai-driven/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ai-driven/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Brand</title>
+      <link>/tags/brand/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/brand/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Interviews</title>
+      <link>/tags/interviews/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/interviews/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Reputation</title>
+      <link>/tags/reputation/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reputation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Web3</title>
+      <link>/tags/web3/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web3/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Deepfake</title>
+      <link>/tags/deepfake/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deepfake/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>RealityCheck</title>
+      <link>/tags/realitycheck/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/realitycheck/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Pika</title>
+      <link>/tags/pika/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pika/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Replit</title>
       <link>/tags/replit/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/replit/</guid>
       <description></description>
@@ -28,19 +218,9 @@
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>/tags/skills/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/skills/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Supabase</title>
       <link>/tags/supabase/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/supabase/</guid>
       <description></description>
@@ -48,9 +228,19 @@
     </item>
     
     <item>
+      <title>Skills</title>
+      <link>/tags/skills/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/skills/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Tag1</title>
       <link>/tags/tag1/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/tag1/</guid>
       <description></description>
@@ -60,9 +250,59 @@
     <item>
       <title>Tag2</title>
       <link>/tags/tag2/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/tag2/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Cold</title>
+      <link>/tags/cold/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cold/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Snow</title>
+      <link>/tags/snow/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/snow/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Slava</title>
+      <link>/tags/slava/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/slava/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>/tags/community/</link>
+      <pubDate>Tue, 10 Jun 0025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/community/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Tue, 10 Jun 0025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
       <description></description>
       <content></content>
     </item>

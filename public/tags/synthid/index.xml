@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SynthID on Terminal</title>
+    <link>/tags/synthid/</link>
+    <description>Recent content in SynthID on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/synthid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVITUDE BLOG POST 011</title>
+      <link>/posts/2025-05-21/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-21/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/1635.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-digital-stamp-of-truth-how-well-know-whats-real-in-the-age-of-ai&#34;&gt;The Digital Stamp of Truth: How We’ll Know What’s Real in the Age of AI&lt;/h1&gt;
+&lt;p&gt;These days, something feels different. It’s not just because the internet is faster or because we have small computers in our pockets. It’s a bigger shift in how we see the world and what we believe. We get so much information constantly that it can be hard to keep up. One big reason for this is content made by artificial intelligence, or AI.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/1635.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-digital-stamp-of-truth-how-well-know-whats-real-in-the-age-of-ai&#34;&gt;The Digital Stamp of Truth: How We’ll Know What’s Real in the Age of AI&lt;/h1&gt;
+&lt;p&gt;These days, something feels different. It’s not just because the internet is faster or because we have small computers in our pockets. It’s a bigger shift in how we see the world and what we believe. We get so much information constantly that it can be hard to keep up. One big reason for this is content made by artificial intelligence, or AI.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s challenging nowadays to distinguish reality from fiction. While fake news is prevalent, it represents just a fraction of the issue. It&amp;rsquo;s also about trusting what we see daily, whether pictures, news articles, or the voices we hear. How can we connect with others or understand the truth if we can&amp;rsquo;t tell what is genuine?&lt;/p&gt;
+&lt;h2 id=&#34;when-reality-gets-blurry&#34;&gt;When Reality Gets Blurry&lt;/h2&gt;
+&lt;p&gt;Recall a few years back. Most of the pictures you found online were taken by someone. The words you read in an article were penned by a person. If you heard a voice, it was usually a human speaking. There were always some fakes, of course, but it was often quite easy to distinguish them.&lt;/p&gt;
+&lt;p&gt;Now, things are changing at a speed that makes your head spin. AI can create images that look exactly like photos, even of events that never happened. It can write entire articles that sound just like they were written by a human. It can even generate voices that sound so real you might think your friend is calling you when it’s just a computer.&lt;/p&gt;
+&lt;p&gt;I recall encountering an AI-generated image of a dog in sunglasses at a small café table. It appeared incredibly realistic, absurd, and utterly implausible simultaneously. For a brief moment, my mind attempted to process it as if it were a genuine moment caught on camera. And that&amp;rsquo;s merely an amusing image. What occurs when the images aren&amp;rsquo;t amusing, or the words carry more weight than entertainment?&lt;/p&gt;
+&lt;p&gt;This is where the idea of a &amp;ldquo;digital stamp of truth&amp;rdquo; comes in. How do we protect ourselves if AI can make anything look and sound real? How do we build a shared understanding of what&amp;rsquo;s true? It’s like we’re building a new world, and we need new rules and tools to help us navigate it.&lt;/p&gt;
+&lt;h2 id=&#34;searching-for-certainty-in-a-digital-world&#34;&gt;Searching for Certainty in a Digital World&lt;/h2&gt;
+&lt;p&gt;One of the biggest names in tech, Google, is trying to help with this. They recently talked about a new tool called &amp;ldquo;SynthID Detector.&amp;rdquo; Think of it like a special magnifying glass for content.&lt;/p&gt;
+&lt;p&gt;According to Google DeepMind’s Pushmeet Kohli, this tool is &amp;ldquo;a verification portal&amp;rdquo; that can &amp;ldquo;quickly and efficiently identify AI-generated content made with Google AI.” He also says it can “highlight which parts of the content are more likely to have been watermarked with SynthID.”&lt;/p&gt;
+&lt;p&gt;So, how does it work? It’s pretty clever.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Invisible Watermarks:&lt;/strong&gt; When Google&amp;rsquo;s AI tools (like Gemini for text, or Imagen for pictures) create something, they put a secret, invisible &amp;ldquo;watermark&amp;rdquo; on it. You can&amp;rsquo;t see or hear this watermark.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Detector&amp;rsquo;s Job:&lt;/strong&gt; When you use the SynthID Detector, it scans the content. It&amp;rsquo;s looking for that secret watermark.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pointing Out the AI:&lt;/strong&gt; If the detector finds the watermark, it tells you the content was made with Google&amp;rsquo;s AI. And it doesn&amp;rsquo;t just say &amp;ldquo;yes&amp;rdquo; or &amp;ldquo;no.&amp;rdquo; For pictures, it can show you which parts of the image have the watermark. For audio, it can point to specific sections.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As Kohli explains: &amp;ldquo;When you upload an image, audio track, video, or piece of text created using Google’s AI tools, the portal will scan the media for a SynthID watermark. If a watermark is detected, the portal will highlight specific portions of the content most likely to be watermarked.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This is a big step. It allows us to check if something came from Google&amp;rsquo;s AI. It&amp;rsquo;s like a baker putting a special mark on their bread so you know it came from their shop.&lt;/p&gt;
+&lt;p&gt;But here’s the thing: this tool only works for content made by Google’s AI systems. What about all the other AI tools out there? What about people who use AI and then try to hide that fact? The problem of knowing what’s real is much bigger than just one company’s tools.&lt;/p&gt;
+&lt;h2 id=&#34;our-part-in-the-puzzle&#34;&gt;Our Part in the Puzzle&lt;/h2&gt;
+&lt;p&gt;So, what can we learn from this?&lt;/p&gt;
+&lt;p&gt;First, it shows that even the big tech companies see this problem. They know that trust is important. Their effort with SynthID Detector signals that this is a conversation we all need to have.&lt;/p&gt;
+&lt;p&gt;Second, it teaches us to be more thoughtful about the content we see every day. We can&amp;rsquo;t just assume everything is what it seems. We need to be like friendly detectives, asking a few simple questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Who made this?&lt;/strong&gt; Is there a clear source?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Does this feel right?&lt;/strong&gt; Sometimes your gut can tell you if something is off.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can I check this elsewhere?&lt;/strong&gt; Look for other sources that say the same thing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Am I seeing a stamp of truth?&lt;/strong&gt; Does it have a watermark or some other sign that it&amp;rsquo;s verified?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The world is not going to slow down. AI will keep improving at creating things that look and sound like real life. And that’s okay, as long as we have ways to sort through it all. Tools like SynthID Detector are just the beginning. The real work is in how we, as people, adapt our thinking. We need to learn to be curious, to ask questions, and to look for those little signs of truth in a world full of digital wonders.&lt;/p&gt;
+&lt;p&gt;How will we, as people, build trust in a world where anyone can make anything seem real?&lt;/p&gt;
+&lt;p&gt;[Source](The Verge)&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
